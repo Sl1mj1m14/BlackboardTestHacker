@@ -1,0 +1,12 @@
+#Ignoring python cache files
+__pycache__/
+*.pyc
+
+#Ignoring temp files (Should not be applicable)
+temp/temp.json
+
+#Ignoring the output and any source files, so it is empty on download
+output.js
+*.html
+
+.env
