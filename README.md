@@ -1,5 +1,5 @@
 # Blackboard Test Hacker
-##* Okay, so maybe it isn't really hacking... *##
+## *Okay, so maybe it isn't really hacking...* ##
 
 This is a program I wrote initially to simply run some subnetting calculations because I was too lazy to do math.
 I then got much lazier and decided to just write code to do my homework for me.
