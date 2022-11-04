@@ -15,6 +15,7 @@ To Use:
 4. Retreive the source code of the test. This can be done by pressing `Ctrl + S` and saving as **HTML File ONLY**. This method is slightly unreliable, as occasionally it will just set the source to a redirect page. For best results, view source first by pressing `Ctrl + U`, then select all and paste into the `source.html` file
 5. Run `python3 import.py`
 *When running the command, variables can be specified. The file can be specified as `file=example.html`, the college as `college=000000`, and the class as `class=AAAA100`*
+6. After the success, copy the code from `output.js`, press `Ctrl + Shift + I` on the test page, paste the code into the console log, and press enter. If all questions were answered, it will simply prompt you to submit, otherwise the test will warn you that you have unanswered questions
 
 Obviously in the current state of this program, it is only designed for my one college class. However, it has been designed with optimal public usage in mind. By copying the format of the module that is already existing, it can easily be set up for any class in any college, so long as blackboard is used. The number `002835` is not arbitrary, it uses the 2022-2023 FAFSA School Code Indexing. This was done so it can be universal
 
